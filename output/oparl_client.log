@@ -1,0 +1,26 @@
+2025-10-17 22:04:26,149 - INFO - OParl-Client initialisiert für https://www.bonn.sitzung-online.de/public/oparl
+2025-10-17 22:04:26,150 - INFO - Filtere Meetings bis 2025-12-31
+2025-10-17 22:04:26,150 - INFO - Starte Abruf von Meetings bis 2025-12-31
+2025-10-17 22:04:26,150 - INFO - Lade Seite 1...
+2025-10-17 22:04:26,326 - INFO - Seite 1: 20 Meetings gefunden, 20 passen zum Filter
+2025-10-17 22:04:26,326 - INFO - Lade Seite 2...
+2025-10-17 22:04:29,552 - INFO - Seite 2: 20 Meetings gefunden, 20 passen zum Filter
+2025-10-17 22:04:29,552 - INFO - Lade Seite 3...
+2025-10-17 22:05:00,586 - WARNING - Timeout bei Seite 3, Versuch 1
+2025-10-17 22:05:00,586 - INFO - Warte 5s vor Wiederholung...
+2025-10-17 22:05:36,903 - WARNING - Timeout bei Seite 3, Versuch 2
+2025-10-17 22:05:36,903 - INFO - Warte 10s vor Wiederholung...
+2025-10-17 22:06:18,170 - WARNING - Timeout bei Seite 3, Versuch 3
+2025-10-17 22:06:18,170 - INFO - Abruf abgeschlossen: 40 eindeutige Meetings gefunden
+2025-10-17 22:06:18,171 - INFO - CSV-Export abgeschlossen: output/meetings.csv
+2025-10-17 22:06:18,172 - INFO - JSON-Export abgeschlossen: output/meetings.json
+2025-10-17 22:06:18,172 - INFO - ==================================================
+2025-10-17 22:06:18,173 - INFO - STATISTIKEN
+2025-10-17 22:06:18,173 - INFO - ==================================================
+2025-10-17 22:06:18,173 - INFO - Abgerufene Meetings: 40
+2025-10-17 22:06:18,173 - INFO - Seiten durchsucht: 2
+2025-10-17 22:06:18,173 - INFO - API-Requests: 2
+2025-10-17 22:06:18,173 - INFO - Fehler: 1
+2025-10-17 22:06:18,173 - INFO - Zeitraum: 2025-11-04 bis 2025-12-31
+2025-10-17 22:06:18,173 - INFO - ==================================================
+2025-10-17 22:06:18,173 - INFO - Gesamtdauer: 112.02 Sekunden

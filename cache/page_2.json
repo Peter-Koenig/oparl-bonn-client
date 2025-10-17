@@ -1,0 +1,317 @@
+{
+  "data": [
+    {
+      "id": "https://www.bonn.sitzung-online.de/public/oparl/meetings?id=2005259",
+      "type": "https://schema.oparl.org/1.1/Meeting",
+      "name": "Sitzung des Projektbeirates Sanierung Beethovenhalle Bonn (Sammeldatum für alle Vorlagen der neuen Wahlperiode)",
+      "meetingState": "terminiert",
+      "cancelled": false,
+      "start": "2025-12-31T18:00:00+01:00",
+      "end": "2026-01-01T00:00:00+01:00",
+      "organization": [
+        "https://www.bonn.sitzung-online.de/public/oparl/organizations?typ=gr&id=333"
+      ],
+      "created": "2025-05-28T15:16:17+02:00",
+      "modified": "2025-05-28T15:17:34+02:00",
+      "deleted": false
+    },
+    {
+      "id": "https://www.bonn.sitzung-online.de/public/oparl/meetings?id=2005264",
+      "type": "https://schema.oparl.org/1.1/Meeting",
+      "name": "Sitzung des Sportausschusses (Sammeldatum für alle Vorlagen der neuen Wahlperiode)",
+      "meetingState": "terminiert",
+      "cancelled": false,
+      "start": "2025-12-31T18:00:00+01:00",
+      "end": "2026-01-01T00:00:00+01:00",
+      "organization": [
+        "https://www.bonn.sitzung-online.de/public/oparl/organizations?typ=gr&id=25"
+      ],
+      "created": "2025-06-03T14:09:29+02:00",
+      "modified": "2025-06-03T14:09:29+02:00",
+      "deleted": false
+    },
+    {
+      "id": "https://www.bonn.sitzung-online.de/public/oparl/meetings?id=2005233",
+      "type": "https://schema.oparl.org/1.1/Meeting",
+      "name": "Sitzung des Schulausschusses (Sammeldatum für alle Vorlagen der neuen Wahlperiode)",
+      "meetingState": "terminiert",
+      "cancelled": false,
+      "start": "2025-12-31T17:30:00+01:00",
+      "end": "2026-01-01T00:00:00+01:00",
+      "organization": [
+        "https://www.bonn.sitzung-online.de/public/oparl/organizations?typ=gr&id=10"
+      ],
+      "created": "2025-05-28T13:57:03+02:00",
+      "modified": "2025-05-28T13:57:03+02:00",
+      "deleted": false
+    },
+    {
+      "id": "https://www.bonn.sitzung-online.de/public/oparl/meetings?id=2005246",
+      "type": "https://schema.oparl.org/1.1/Meeting",
+      "name": "Sitzung des Unterausschusses Denkmalschutz (Sammeldatum für alle Vorlagen der neuen Wahlperiode)",
+      "meetingState": "terminiert",
+      "cancelled": false,
+      "start": "2025-12-31T17:00:00+01:00",
+      "end": "2026-01-01T00:00:00+01:00",
+      "organization": [
+        "https://www.bonn.sitzung-online.de/public/oparl/organizations?typ=gr&id=343"
+      ],
+      "created": "2025-05-28T14:01:22+02:00",
+      "modified": "2025-05-28T14:01:22+02:00",
+      "deleted": false
+    },
+    {
+      "id": "https://www.bonn.sitzung-online.de/public/oparl/meetings?id=2005411",
+      "type": "https://schema.oparl.org/1.1/Meeting",
+      "name": "Sitzung des Naturschutzbeirates (Sammeldatum für alle Vorlagen der neuen Wahlperiode)",
+      "meetingState": "terminiert",
+      "cancelled": false,
+      "start": "2025-12-31T17:00:00+01:00",
+      "end": "2026-01-01T00:00:00+01:00",
+      "organization": [
+        "https://www.bonn.sitzung-online.de/public/oparl/organizations?typ=gr&id=26"
+      ],
+      "created": "2025-07-15T12:58:25+02:00",
+      "modified": "2025-07-15T12:58:25+02:00",
+      "deleted": false
+    },
+    {
+      "id": "https://www.bonn.sitzung-online.de/public/oparl/meetings?id=2005412",
+      "type": "https://schema.oparl.org/1.1/Meeting",
+      "name": "Sitzung des Projektbeirates Behindertenpolitischer Teilhabeplan (Sammeldatum für alle Vorlagen der neuen Wahlperiode)",
+      "meetingState": "terminiert",
+      "cancelled": false,
+      "start": "2025-12-31T17:00:00+01:00",
+      "end": "2025-12-31T23:59:00+01:00",
+      "organization": [
+        "https://www.bonn.sitzung-online.de/public/oparl/organizations?typ=gr&id=334"
+      ],
+      "created": "2025-07-15T12:59:18+02:00",
+      "modified": "2025-07-15T12:59:18+02:00",
+      "deleted": false
+    },
+    {
+      "id": "https://www.bonn.sitzung-online.de/public/oparl/meetings?id=2005236",
+      "type": "https://schema.oparl.org/1.1/Meeting",
+      "name": "Sitzung der Baumkommission (Sammeldatum für alle Vorlagen der neuen Wahlperiode)",
+      "meetingState": "terminiert",
+      "cancelled": false,
+      "start": "2025-12-31T15:00:00+01:00",
+      "end": "2026-01-01T00:00:00+01:00",
+      "organization": [
+        "https://www.bonn.sitzung-online.de/public/oparl/organizations?typ=gr&id=15"
+      ],
+      "created": "2025-05-28T13:58:27+02:00",
+      "modified": "2025-05-28T13:58:27+02:00",
+      "deleted": false
+    },
+    {
+      "id": "https://www.bonn.sitzung-online.de/public/oparl/meetings?id=2005410",
+      "type": "https://schema.oparl.org/1.1/Meeting",
+      "name": "Sitzung des Beirates zum ehrenamtlichen Bevölkerungs- und Katastrophenschutz (Sammeldatum für alle Vorlagen der neuen Wahlperiode)",
+      "meetingState": "terminiert",
+      "cancelled": false,
+      "start": "2025-12-31T00:00:00+01:00",
+      "end": "2026-01-01T00:00:00+01:00",
+      "organization": [
+        "https://www.bonn.sitzung-online.de/public/oparl/organizations?typ=gr&id=332"
+      ],
+      "created": "2025-07-15T12:57:47+02:00",
+      "modified": "2025-07-15T12:57:51+02:00",
+      "deleted": false
+    },
+    {
+      "id": "https://www.bonn.sitzung-online.de/public/oparl/meetings?id=2005257",
+      "type": "https://schema.oparl.org/1.1/Meeting",
+      "name": "Sitzung des Ausschusses für Europa, Internationales, Wissenschaft, Wirtschaft und Arbeit (Sammeldatum für alle Vorlagen der neuen Wahlperiode)",
+      "meetingState": "terminiert",
+      "cancelled": false,
+      "start": "2025-12-31T00:00:00+01:00",
+      "end": "2025-12-31T23:59:00+01:00",
+      "organization": [
+        "https://www.bonn.sitzung-online.de/public/oparl/organizations?typ=gr&id=335"
+      ],
+      "created": "2025-05-28T15:15:06+02:00",
+      "modified": "2025-05-28T15:15:06+02:00",
+      "deleted": false
+    },
+    {
+      "id": "https://www.bonn.sitzung-online.de/public/oparl/meetings?id=2004209",
+      "type": "https://schema.oparl.org/1.1/Meeting",
+      "name": "Sitzung des Rates",
+      "meetingState": "terminiert",
+      "cancelled": false,
+      "start": "2025-12-11T17:00:00+01:00",
+      "end": "2025-12-12T00:00:00+01:00",
+      "organization": [
+        "https://www.bonn.sitzung-online.de/public/oparl/organizations?typ=gr&id=1"
+      ],
+      "created": "2025-10-12T04:40:10+02:00",
+      "modified": "2025-10-12T04:40:10+02:00",
+      "deleted": false
+    },
+    {
+      "id": "https://www.bonn.sitzung-online.de/public/oparl/meetings?id=2005320",
+      "type": "https://schema.oparl.org/1.1/Meeting",
+      "name": "Sitzung der Bezirksvertretung Beuel",
+      "meetingState": "terminiert",
+      "cancelled": false,
+      "start": "2025-12-10T17:00:00+01:00",
+      "end": "2025-12-11T00:00:00+01:00",
+      "organization": [
+        "https://www.bonn.sitzung-online.de/public/oparl/organizations?typ=gr&id=4"
+      ],
+      "created": "2025-06-16T13:43:10+02:00",
+      "modified": "2025-06-16T13:43:10+02:00",
+      "deleted": false
+    },
+    {
+      "id": "https://www.bonn.sitzung-online.de/public/oparl/meetings?id=2005159",
+      "type": "https://schema.oparl.org/1.1/Meeting",
+      "name": "Sitzung der Bezirksvertretung Bad Godesberg",
+      "meetingState": "terminiert",
+      "cancelled": false,
+      "start": "2025-12-03T17:00:00+01:00",
+      "end": "2025-12-04T00:00:00+01:00",
+      "organization": [
+        "https://www.bonn.sitzung-online.de/public/oparl/organizations?typ=gr&id=3"
+      ],
+      "created": "2025-04-28T10:12:48+02:00",
+      "modified": "2025-04-28T10:12:49+02:00",
+      "deleted": false
+    },
+    {
+      "id": "https://www.bonn.sitzung-online.de/public/oparl/meetings?id=2005164",
+      "type": "https://schema.oparl.org/1.1/Meeting",
+      "name": "Sitzung der Bezirksvertretung Hardtberg",
+      "meetingState": "terminiert",
+      "cancelled": false,
+      "start": "2025-12-02T18:00:00+01:00",
+      "end": "2025-12-03T00:00:00+01:00",
+      "organization": [
+        "https://www.bonn.sitzung-online.de/public/oparl/organizations?typ=gr&id=5"
+      ],
+      "created": "2025-05-05T08:17:56+02:00",
+      "modified": "2025-05-05T08:17:56+02:00",
+      "deleted": false
+    },
+    {
+      "id": "https://www.bonn.sitzung-online.de/public/oparl/meetings?id=2005161",
+      "type": "https://schema.oparl.org/1.1/Meeting",
+      "name": "Sitzung der Bezirksvertretung Bonn",
+      "meetingState": "terminiert",
+      "cancelled": false,
+      "start": "2025-12-02T17:00:00+01:00",
+      "end": "2025-12-03T00:00:00+01:00",
+      "organization": [
+        "https://www.bonn.sitzung-online.de/public/oparl/organizations?typ=gr&id=2"
+      ],
+      "created": "2025-04-30T08:51:18+02:00",
+      "modified": "2025-04-30T08:51:18+02:00",
+      "deleted": false
+    },
+    {
+      "id": "https://www.bonn.sitzung-online.de/public/oparl/meetings?id=2004208",
+      "type": "https://schema.oparl.org/1.1/Meeting",
+      "name": "Sitzung des Rates (konstituierende Sitzung)",
+      "meetingState": "terminiert",
+      "cancelled": false,
+      "start": "2025-11-13T17:00:00+01:00",
+      "end": "2025-11-14T00:00:00+01:00",
+      "organization": [
+        "https://www.bonn.sitzung-online.de/public/oparl/organizations?typ=gr&id=1"
+      ],
+      "created": "2025-10-12T04:40:10+02:00",
+      "modified": "2025-10-12T04:40:10+02:00",
+      "deleted": false
+    },
+    {
+      "id": "https://www.bonn.sitzung-online.de/public/oparl/meetings?id=2005319",
+      "type": "https://schema.oparl.org/1.1/Meeting",
+      "name": "Konstituierende Sitzung der Bezirksvertretung Beuel",
+      "meetingState": "terminiert",
+      "cancelled": false,
+      "start": "2025-11-12T17:00:00+01:00",
+      "end": "2025-11-13T00:00:00+01:00",
+      "organization": [
+        "https://www.bonn.sitzung-online.de/public/oparl/organizations?typ=gr&id=4"
+      ],
+      "created": "2025-06-16T13:42:09+02:00",
+      "modified": "2025-06-16T13:42:09+02:00",
+      "deleted": false
+    },
+    {
+      "id": "https://www.bonn.sitzung-online.de/public/oparl/meetings?id=2005556",
+      "type": "https://schema.oparl.org/1.1/Meeting",
+      "name": "Sitzung des Städtebau- und Gestaltungsbeirates",
+      "meetingState": "terminiert",
+      "cancelled": false,
+      "start": "2025-11-12T14:00:00+01:00",
+      "end": "2025-11-12T18:00:00+01:00",
+      "organization": [
+        "https://www.bonn.sitzung-online.de/public/oparl/organizations?typ=gr&id=250"
+      ],
+      "created": "2025-10-09T10:45:17+02:00",
+      "modified": "2025-10-09T10:45:17+02:00",
+      "deleted": false
+    },
+    {
+      "id": "https://www.bonn.sitzung-online.de/public/oparl/meetings?id=2005158",
+      "type": "https://schema.oparl.org/1.1/Meeting",
+      "name": "Konstituierende Sitzung der Bezirksvertretung Bad Godesberg",
+      "meetingState": "terminiert",
+      "cancelled": false,
+      "start": "2025-11-06T17:00:00+01:00",
+      "end": "2025-11-07T00:00:00+01:00",
+      "organization": [
+        "https://www.bonn.sitzung-online.de/public/oparl/organizations?typ=gr&id=3"
+      ],
+      "created": "2025-04-28T10:12:12+02:00",
+      "modified": "2025-05-05T08:18:37+02:00",
+      "deleted": false
+    },
+    {
+      "id": "https://www.bonn.sitzung-online.de/public/oparl/meetings?id=2005163",
+      "type": "https://schema.oparl.org/1.1/Meeting",
+      "name": "Konstituierende Sitzung der Bezirksvertretung Hardtberg",
+      "meetingState": "terminiert",
+      "cancelled": false,
+      "start": "2025-11-04T18:00:00+01:00",
+      "end": "2025-11-05T00:00:00+01:00",
+      "organization": [
+        "https://www.bonn.sitzung-online.de/public/oparl/organizations?typ=gr&id=5"
+      ],
+      "created": "2025-05-05T08:17:28+02:00",
+      "modified": "2025-05-05T08:18:22+02:00",
+      "deleted": false
+    },
+    {
+      "id": "https://www.bonn.sitzung-online.de/public/oparl/meetings?id=2005160",
+      "type": "https://schema.oparl.org/1.1/Meeting",
+      "name": "Konstituierende Sitzung der Bezirksvertretung Bonn",
+      "meetingState": "terminiert",
+      "cancelled": false,
+      "start": "2025-11-04T17:00:00+01:00",
+      "end": "2025-11-05T00:00:00+01:00",
+      "organization": [
+        "https://www.bonn.sitzung-online.de/public/oparl/organizations?typ=gr&id=2"
+      ],
+      "created": "2025-04-30T08:47:47+02:00",
+      "modified": "2025-10-14T16:49:10+02:00",
+      "deleted": false
+    }
+  ],
+  "pagination": {
+    "totalElements": 1331,
+    "elementsPerPage": 20,
+    "currentPage": 2,
+    "totalPages": 67
+  },
+  "links": {
+    "first": "https://www.bonn.sitzung-online.de/public/oparl/meetings?body=1&page=1",
+    "self": "https://www.bonn.sitzung-online.de/public/oparl/meetings?body=1&page=2",
+    "last": "https://www.bonn.sitzung-online.de/public/oparl/meetings?body=1&page=67",
+    "next": "https://www.bonn.sitzung-online.de/public/oparl/meetings?body=1&page=3",
+    "prev": "https://www.bonn.sitzung-online.de/public/oparl/meetings?body=1&page=1"
+  }
+}
