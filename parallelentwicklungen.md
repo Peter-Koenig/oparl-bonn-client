@@ -1,4 +1,4 @@
-Auf [Mastodon](https://digitalcourage.social/@synapsenkitzler/115393946568418065) gab es eine Diskussion um eine Parallelentwicklung der OParl-Clients, auf die hingeweisen werden sollte
+Auf [Mastodon](https://digitalcourage.social/@synapsenkitzler/115393946568418065) kam es eine Diskussion um eine Parallelentwicklung der OParl-Clients auf.
 
 ## Die Clients:
 
