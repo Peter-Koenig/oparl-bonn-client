@@ -9,7 +9,7 @@ Auf [Mastodon](https://digitalcourage.social/@synapsenkitzler/115393946568418065
    * [Impuls-basierte Entwicklung eines oparl-Clients, nur für Meetings](https://github.com/Peter-Koenig/oparl-bonn-client.git)
    * Peter König ([Github](https://github.com/Peter-Koenig), [Mastodon](https://gruene.social/@peter_koenig))
 
-Beide Clients wurden mittels KI bzw. Vibe-Programmierung erstellt, was die Frage aufgeworfen hat, ob bei der Erstellung voneinander abgeschrieben wurde. Hier die (KI-gestützte) Analyse:
+Beide Clients wurden mittels KI bzw. Vibe-Programmierung erstellt, was die Frage aufgeworfen hat, ob die KIs bei der Erstellung voneinander abgeschrieben haben. Hier die (KI-gestützte) Analyse:
 
 ## Analyse-Ergebnis: Keine Code-Übernahme feststellbar
 
